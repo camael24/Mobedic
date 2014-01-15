@@ -1,7 +1,23 @@
 Mobedic
 =====
+```
+    __ \ / __
+             /  \ | /  \
+                 \|/
+            _,.---v---._
+   /\__/\  /            \
+   \_  _/ /              \
+     \ \_|           @ __|
+      \                \_
+       \     ,__/       /
+     ~~~`~~~~~~~~~~~~~~/~~~~
+```
+
+An Dependancy Injection Container *just for fun* its just a POC use it at your own risk
 
 Sample file
+-----
+
 ```PHP
 <?php
 namespace {
